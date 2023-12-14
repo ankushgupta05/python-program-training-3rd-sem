@@ -11,4 +11,4 @@ Higher order funtion type
 -->  Map is a instance of higher order function and operation perform on every element of iterable and than save in map function .
 -->  fillter also a instence of higher order function filter and its similer as a map but it give or return only true value and filler does not return  false value and true value save in filter function . 
 -->  reduce also a instence of HOF 
---> decorate() decorate the function of iterable and it is called decorate()
+--> decorate() decorate the function  and it is called decorate()
