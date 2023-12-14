@@ -1,1 +1,14 @@
+Higher order funtion type 
+1) map()
+2) filler()
+3) reduce()
+4) decorate()
+5) genrate()
 
+
+-->  function is called Higher order funtion Because It pass a function as a argument with an iterable.
+-->  iterable means which containt a number of Element and example of iterable list touple set etc. 
+-->  Map is a instance of higher order function and operation perform on every element of iterable and than save in map function .
+-->  fillter also a instence of higher order function filter and its similer as a map but it give or return only true value and filler does not return  false value and true value save in filter function . 
+-->  reduce also a instence of HOF 
+--> decorate() decorate the function of iterable and it is called decorate()
